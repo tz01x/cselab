@@ -23,7 +23,7 @@ def main():
         ea=None
 
         c=0
-        print(f'{fantion(lower)}  {fantion(uper)} ')
+        
         if fantion(lower)*fantion(uper)<0 : #checking the boundary is vaild  
                 
                 print('iteration\t Xl \t\t\t Xu \t\t\t Xm \t\t\t error ')
